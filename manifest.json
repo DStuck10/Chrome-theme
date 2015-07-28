@@ -1,0 +1,33 @@
+{
+    "description": "The First theme I have created",
+    "manifest_version": 2,
+    "name": "First Theme",
+    "theme": {
+        "colors": {
+            "bookmark_text": [ 255, 255, 255 ], //Bookmark text color
+            "button_background": [ 255, 0, 0 ], // The background of all the buttons 
+            "frame": [ 0, 0, 0 ], // Unsure what it changes
+            "ntp_header": [ 255, 0, 0 ],
+            "ntp_background": [ 0, 0, 0 ], // Unsure what this changes
+            "ntp_link": [ 50, 50, 0 ], // Background area link text
+            "ntp_section": [ 207, 221, 192 ], // recently closed tabs area's background
+            "ntp_section_link": [ 0, 0, 0 ],
+            "ntp_section_text": [ 0, 0, 255 ],
+            "ntp_text": [ 20, 40, 0 ],
+            "tab_background_text": [ 255, 255, 255 ], // Background tabs text
+            "tab_text": [ 0, 200, 0 ], // Active tabs text
+            "toolbar": [ 0, 0, 0 ] // Unsure what is changes
+        },
+        "images": {
+            "theme_frame": "images/frame.png", // Destiny picture in the tabs header
+            "theme_ntp_background": "images/ford.jpg", // Big ford picture
+            "theme_toolbar": "images/header.png" // Bar with bookmarks along with active tab
+
+        },
+        "tints": {
+            "background_tab": [ 0.5, 0.5, 0.5 ], // Change the background tab color
+            "buttons": [ 0.8, 0.8, 0.47 ] // Leave as is The buttons for home and back
+        }
+    },
+    "version": "2.0"
+}
