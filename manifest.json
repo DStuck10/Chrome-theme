@@ -19,9 +19,9 @@
             "toolbar": [ 0, 0, 0 ] // Unsure what is changes
         },
         "images": {
-            "theme_frame": "images/frame.png", // Destiny picture in the tabs header
+            "theme_frame": "images/FlameFrame.png", // Destiny picture in the tabs header
             "theme_ntp_background": "images/ford.jpg", // Big ford picture
-            "theme_toolbar": "images/header.png" // Bar with bookmarks along with active tab
+            "theme_toolbar": "images/Banner.png" // Bar with bookmarks along with active tab
 
         },
         "tints": {
